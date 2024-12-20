@@ -31,7 +31,7 @@ I'm Pawan S Devadiga, a beginer web developer who enjoys creating simple and use
 - **GitHub**: [Pawan S Devadiga](https://github.com/codepawan-dev)
 
 ## 📊 GitHub Stats
-![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codepawan-dev&show_icons=true&theme=radical)
 
 ---
 "Coding is not just about algorithms and syntax; it's about creating something meaningful."
